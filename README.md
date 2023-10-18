@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me carl.hartryjr@yahoo.com "work email"
 - 📫 How to reach me carlhartry@gmail.com "personal email"
-- 📱 How to reach me 706-418-5812
+- 📱 How to reach me 706-418-5812 "work phone"
 <!---
 Chartry0607/Chartry0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
